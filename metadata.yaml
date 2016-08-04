@@ -1,0 +1,27 @@
+_repo: The-Dynasts--An-Epic-Drama-of-the-War-with-Napoleon_4043
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hardy, Thomas
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '23'
+    url: http://www.gutenberg.org/2009/agents/23
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
+description: '[v. 1]. Parts I and II -- [v. 2]. Part III. The famous tragedy of the
+  Queen of Cornwall.'
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4043'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Drama'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Drama'
+- GITenberg
+title: 'The Dynasts: An Epic-Drama of the War with Napoleon'
+url: http://www.gutenberg.org/ebooks/4043
