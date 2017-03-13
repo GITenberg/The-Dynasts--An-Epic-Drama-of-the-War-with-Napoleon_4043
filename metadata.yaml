@@ -1,5 +1,8 @@
 _repo: The-Dynasts--An-Epic-Drama-of-the-War-with-Napoleon_4043
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hardy, Thomas
@@ -10,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
 description: '[v. 1]. Parts I and II -- [v. 2]. Part III. The famous tragedy of the
   Queen of Cornwall.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4043#The-Dynasts--An-Epic-Drama-of-the-War-with-Napoleon
 gutenberg_issued: '2003-05-01'
 gutenberg_type: Text
 identifiers:
